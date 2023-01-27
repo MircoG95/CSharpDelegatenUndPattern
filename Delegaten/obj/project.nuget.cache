@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "MyU2a5orJ9aDw6mreU6fe9uKbphqYiaeBm3iu+fZbNXcp/YWFdPZ2j1KAyzALuEFljBwzY5falsD8XqXcW5BRA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mircolino\\Desktop\\Projekte\\21_1_KA_AE\\Delegaten\\Delegaten.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mircolino\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Mircolino\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Mircolino\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Mircolino\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
