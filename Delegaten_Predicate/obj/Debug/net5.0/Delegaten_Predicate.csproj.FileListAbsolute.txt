@@ -1,0 +1,15 @@
+C:\Users\thafner\source\repos\21_1_KA_AE\Delegaten_Predicate\bin\Debug\net5.0\Delegaten_Predicate.exe
+C:\Users\thafner\source\repos\21_1_KA_AE\Delegaten_Predicate\bin\Debug\net5.0\Delegaten_Predicate.deps.json
+C:\Users\thafner\source\repos\21_1_KA_AE\Delegaten_Predicate\bin\Debug\net5.0\Delegaten_Predicate.runtimeconfig.json
+C:\Users\thafner\source\repos\21_1_KA_AE\Delegaten_Predicate\bin\Debug\net5.0\Delegaten_Predicate.runtimeconfig.dev.json
+C:\Users\thafner\source\repos\21_1_KA_AE\Delegaten_Predicate\bin\Debug\net5.0\Delegaten_Predicate.dll
+C:\Users\thafner\source\repos\21_1_KA_AE\Delegaten_Predicate\bin\Debug\net5.0\ref\Delegaten_Predicate.dll
+C:\Users\thafner\source\repos\21_1_KA_AE\Delegaten_Predicate\bin\Debug\net5.0\Delegaten_Predicate.pdb
+C:\Users\thafner\source\repos\21_1_KA_AE\Delegaten_Predicate\obj\Debug\net5.0\Delegaten_Predicate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thafner\source\repos\21_1_KA_AE\Delegaten_Predicate\obj\Debug\net5.0\Delegaten_Predicate.AssemblyInfoInputs.cache
+C:\Users\thafner\source\repos\21_1_KA_AE\Delegaten_Predicate\obj\Debug\net5.0\Delegaten_Predicate.AssemblyInfo.cs
+C:\Users\thafner\source\repos\21_1_KA_AE\Delegaten_Predicate\obj\Debug\net5.0\Delegaten_Predicate.csproj.CoreCompileInputs.cache
+C:\Users\thafner\source\repos\21_1_KA_AE\Delegaten_Predicate\obj\Debug\net5.0\Delegaten_Predicate.dll
+C:\Users\thafner\source\repos\21_1_KA_AE\Delegaten_Predicate\obj\Debug\net5.0\ref\Delegaten_Predicate.dll
+C:\Users\thafner\source\repos\21_1_KA_AE\Delegaten_Predicate\obj\Debug\net5.0\Delegaten_Predicate.pdb
+C:\Users\thafner\source\repos\21_1_KA_AE\Delegaten_Predicate\obj\Debug\net5.0\Delegaten_Predicate.genruntimeconfig.cache
