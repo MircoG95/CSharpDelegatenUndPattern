@@ -1,0 +1,15 @@
+C:\Users\thafner\source\repos\21_1_KA_AE\Delegaten_Func\bin\Debug\net5.0\Delegaten_Func.exe
+C:\Users\thafner\source\repos\21_1_KA_AE\Delegaten_Func\bin\Debug\net5.0\Delegaten_Func.deps.json
+C:\Users\thafner\source\repos\21_1_KA_AE\Delegaten_Func\bin\Debug\net5.0\Delegaten_Func.runtimeconfig.json
+C:\Users\thafner\source\repos\21_1_KA_AE\Delegaten_Func\bin\Debug\net5.0\Delegaten_Func.runtimeconfig.dev.json
+C:\Users\thafner\source\repos\21_1_KA_AE\Delegaten_Func\bin\Debug\net5.0\Delegaten_Func.dll
+C:\Users\thafner\source\repos\21_1_KA_AE\Delegaten_Func\bin\Debug\net5.0\ref\Delegaten_Func.dll
+C:\Users\thafner\source\repos\21_1_KA_AE\Delegaten_Func\bin\Debug\net5.0\Delegaten_Func.pdb
+C:\Users\thafner\source\repos\21_1_KA_AE\Delegaten_Func\obj\Debug\net5.0\Delegaten_Func.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thafner\source\repos\21_1_KA_AE\Delegaten_Func\obj\Debug\net5.0\Delegaten_Func.AssemblyInfoInputs.cache
+C:\Users\thafner\source\repos\21_1_KA_AE\Delegaten_Func\obj\Debug\net5.0\Delegaten_Func.AssemblyInfo.cs
+C:\Users\thafner\source\repos\21_1_KA_AE\Delegaten_Func\obj\Debug\net5.0\Delegaten_Func.csproj.CoreCompileInputs.cache
+C:\Users\thafner\source\repos\21_1_KA_AE\Delegaten_Func\obj\Debug\net5.0\Delegaten_Func.dll
+C:\Users\thafner\source\repos\21_1_KA_AE\Delegaten_Func\obj\Debug\net5.0\ref\Delegaten_Func.dll
+C:\Users\thafner\source\repos\21_1_KA_AE\Delegaten_Func\obj\Debug\net5.0\Delegaten_Func.pdb
+C:\Users\thafner\source\repos\21_1_KA_AE\Delegaten_Func\obj\Debug\net5.0\Delegaten_Func.genruntimeconfig.cache
