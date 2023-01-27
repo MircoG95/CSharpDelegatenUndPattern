@@ -1,0 +1,15 @@
+C:\Users\thafner\source\repos\21_1_KA_AE\Pattern_Singleton\bin\Debug\net5.0\Pattern_Singleton.exe
+C:\Users\thafner\source\repos\21_1_KA_AE\Pattern_Singleton\bin\Debug\net5.0\Pattern_Singleton.deps.json
+C:\Users\thafner\source\repos\21_1_KA_AE\Pattern_Singleton\bin\Debug\net5.0\Pattern_Singleton.runtimeconfig.json
+C:\Users\thafner\source\repos\21_1_KA_AE\Pattern_Singleton\bin\Debug\net5.0\Pattern_Singleton.runtimeconfig.dev.json
+C:\Users\thafner\source\repos\21_1_KA_AE\Pattern_Singleton\bin\Debug\net5.0\Pattern_Singleton.dll
+C:\Users\thafner\source\repos\21_1_KA_AE\Pattern_Singleton\bin\Debug\net5.0\ref\Pattern_Singleton.dll
+C:\Users\thafner\source\repos\21_1_KA_AE\Pattern_Singleton\bin\Debug\net5.0\Pattern_Singleton.pdb
+C:\Users\thafner\source\repos\21_1_KA_AE\Pattern_Singleton\obj\Debug\net5.0\Pattern_Singleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thafner\source\repos\21_1_KA_AE\Pattern_Singleton\obj\Debug\net5.0\Pattern_Singleton.AssemblyInfoInputs.cache
+C:\Users\thafner\source\repos\21_1_KA_AE\Pattern_Singleton\obj\Debug\net5.0\Pattern_Singleton.AssemblyInfo.cs
+C:\Users\thafner\source\repos\21_1_KA_AE\Pattern_Singleton\obj\Debug\net5.0\Pattern_Singleton.csproj.CoreCompileInputs.cache
+C:\Users\thafner\source\repos\21_1_KA_AE\Pattern_Singleton\obj\Debug\net5.0\Pattern_Singleton.dll
+C:\Users\thafner\source\repos\21_1_KA_AE\Pattern_Singleton\obj\Debug\net5.0\ref\Pattern_Singleton.dll
+C:\Users\thafner\source\repos\21_1_KA_AE\Pattern_Singleton\obj\Debug\net5.0\Pattern_Singleton.pdb
+C:\Users\thafner\source\repos\21_1_KA_AE\Pattern_Singleton\obj\Debug\net5.0\Pattern_Singleton.genruntimeconfig.cache
