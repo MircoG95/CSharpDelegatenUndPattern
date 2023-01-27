@@ -1,0 +1,15 @@
+C:\Users\thafner\source\repos\21_1_KA_AE\Delegaten_AnonymeMethoden\bin\Debug\net5.0\Delegaten_AnonymeMethoden.exe
+C:\Users\thafner\source\repos\21_1_KA_AE\Delegaten_AnonymeMethoden\bin\Debug\net5.0\Delegaten_AnonymeMethoden.deps.json
+C:\Users\thafner\source\repos\21_1_KA_AE\Delegaten_AnonymeMethoden\bin\Debug\net5.0\Delegaten_AnonymeMethoden.runtimeconfig.json
+C:\Users\thafner\source\repos\21_1_KA_AE\Delegaten_AnonymeMethoden\bin\Debug\net5.0\Delegaten_AnonymeMethoden.runtimeconfig.dev.json
+C:\Users\thafner\source\repos\21_1_KA_AE\Delegaten_AnonymeMethoden\bin\Debug\net5.0\Delegaten_AnonymeMethoden.dll
+C:\Users\thafner\source\repos\21_1_KA_AE\Delegaten_AnonymeMethoden\bin\Debug\net5.0\ref\Delegaten_AnonymeMethoden.dll
+C:\Users\thafner\source\repos\21_1_KA_AE\Delegaten_AnonymeMethoden\bin\Debug\net5.0\Delegaten_AnonymeMethoden.pdb
+C:\Users\thafner\source\repos\21_1_KA_AE\Delegaten_AnonymeMethoden\obj\Debug\net5.0\Delegaten_AnonymeMethoden.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thafner\source\repos\21_1_KA_AE\Delegaten_AnonymeMethoden\obj\Debug\net5.0\Delegaten_AnonymeMethoden.AssemblyInfoInputs.cache
+C:\Users\thafner\source\repos\21_1_KA_AE\Delegaten_AnonymeMethoden\obj\Debug\net5.0\Delegaten_AnonymeMethoden.AssemblyInfo.cs
+C:\Users\thafner\source\repos\21_1_KA_AE\Delegaten_AnonymeMethoden\obj\Debug\net5.0\Delegaten_AnonymeMethoden.csproj.CoreCompileInputs.cache
+C:\Users\thafner\source\repos\21_1_KA_AE\Delegaten_AnonymeMethoden\obj\Debug\net5.0\Delegaten_AnonymeMethoden.dll
+C:\Users\thafner\source\repos\21_1_KA_AE\Delegaten_AnonymeMethoden\obj\Debug\net5.0\ref\Delegaten_AnonymeMethoden.dll
+C:\Users\thafner\source\repos\21_1_KA_AE\Delegaten_AnonymeMethoden\obj\Debug\net5.0\Delegaten_AnonymeMethoden.pdb
+C:\Users\thafner\source\repos\21_1_KA_AE\Delegaten_AnonymeMethoden\obj\Debug\net5.0\Delegaten_AnonymeMethoden.genruntimeconfig.cache
