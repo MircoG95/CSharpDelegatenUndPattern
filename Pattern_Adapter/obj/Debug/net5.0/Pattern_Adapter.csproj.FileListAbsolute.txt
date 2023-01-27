@@ -1,0 +1,16 @@
+C:\Users\thafner\source\repos\21_1_KA_AE\Pattern_Adapter\bin\Debug\net5.0\Pattern_Adapter.exe
+C:\Users\thafner\source\repos\21_1_KA_AE\Pattern_Adapter\bin\Debug\net5.0\Pattern_Adapter.deps.json
+C:\Users\thafner\source\repos\21_1_KA_AE\Pattern_Adapter\bin\Debug\net5.0\Pattern_Adapter.runtimeconfig.json
+C:\Users\thafner\source\repos\21_1_KA_AE\Pattern_Adapter\bin\Debug\net5.0\Pattern_Adapter.runtimeconfig.dev.json
+C:\Users\thafner\source\repos\21_1_KA_AE\Pattern_Adapter\bin\Debug\net5.0\Pattern_Adapter.dll
+C:\Users\thafner\source\repos\21_1_KA_AE\Pattern_Adapter\bin\Debug\net5.0\ref\Pattern_Adapter.dll
+C:\Users\thafner\source\repos\21_1_KA_AE\Pattern_Adapter\bin\Debug\net5.0\Pattern_Adapter.pdb
+C:\Users\thafner\source\repos\21_1_KA_AE\Pattern_Adapter\obj\Debug\net5.0\Pattern_Adapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thafner\source\repos\21_1_KA_AE\Pattern_Adapter\obj\Debug\net5.0\Pattern_Adapter.AssemblyInfoInputs.cache
+C:\Users\thafner\source\repos\21_1_KA_AE\Pattern_Adapter\obj\Debug\net5.0\Pattern_Adapter.AssemblyInfo.cs
+C:\Users\thafner\source\repos\21_1_KA_AE\Pattern_Adapter\obj\Debug\net5.0\Pattern_Adapter.csproj.CoreCompileInputs.cache
+C:\Users\thafner\source\repos\21_1_KA_AE\Pattern_Adapter\obj\Debug\net5.0\Pattern_Adapter.dll
+C:\Users\thafner\source\repos\21_1_KA_AE\Pattern_Adapter\obj\Debug\net5.0\ref\Pattern_Adapter.dll
+C:\Users\thafner\source\repos\21_1_KA_AE\Pattern_Adapter\obj\Debug\net5.0\Pattern_Adapter.pdb
+C:\Users\thafner\source\repos\21_1_KA_AE\Pattern_Adapter\obj\Debug\net5.0\Pattern_Adapter.genruntimeconfig.cache
+C:\Users\thafner\source\repos\21_1_KA_AE\Pattern_Adapter\obj\Debug\net5.0\Pattern_Adapter.csproj.AssemblyReference.cache
